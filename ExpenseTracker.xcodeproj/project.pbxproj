@@ -15,6 +15,24 @@
 		E22C272826779E4700C7688F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E22C272626779E4700C7688F /* LaunchScreen.storyboard */; };
 		E22C273326779E4700C7688F /* ExpenseTrackerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E22C273226779E4700C7688F /* ExpenseTrackerTests.swift */; };
 		E22C273E26779E4700C7688F /* ExpenseTrackerUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E22C273D26779E4700C7688F /* ExpenseTrackerUITests.swift */; };
+		E22C27592677A14900C7688F /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E22C27582677A14900C7688F /* SettingsViewController.swift */; };
+		E22C275B2677A15900C7688F /* AddExpenseViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E22C275A2677A15900C7688F /* AddExpenseViewController.swift */; };
+		E22C275D2677A16800C7688F /* StatisticsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E22C275C2677A16800C7688F /* StatisticsViewController.swift */; };
+		E22C275F2677A22F00C7688F /* TabBarViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E22C275E2677A22F00C7688F /* TabBarViewController.swift */; };
+		E22C27612677A2C900C7688F /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E22C27602677A2C900C7688F /* ProfileViewController.swift */; };
+		E22C27632677A44100C7688F /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E22C27622677A44000C7688F /* HomeView.swift */; };
+		E22C27652677A44D00C7688F /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E22C27642677A44D00C7688F /* SettingsView.swift */; };
+		E22C27672677A45A00C7688F /* StatisticsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E22C27662677A45A00C7688F /* StatisticsView.swift */; };
+		E22C27692677A46500C7688F /* AddExpenseView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E22C27682677A46500C7688F /* AddExpenseView.swift */; };
+		E22C276B2677A47300C7688F /* ProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E22C276A2677A47300C7688F /* ProfileView.swift */; };
+		E22C276D2677A7A500C7688F /* AddTransactionTableViewCellTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = E22C276C2677A7A500C7688F /* AddTransactionTableViewCellTableViewCell.swift */; };
+		E22C276F2677A82800C7688F /* CategoryViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E22C276E2677A82800C7688F /* CategoryViewController.swift */; };
+		E22C27712677A83000C7688F /* PaymentViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E22C27702677A83000C7688F /* PaymentViewController.swift */; };
+		E22C27732677A83800C7688F /* NotesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E22C27722677A83800C7688F /* NotesViewController.swift */; };
+		E22C27752677A86E00C7688F /* LocationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E22C27742677A86E00C7688F /* LocationViewController.swift */; };
+		E22C27772677A88D00C7688F /* CalenderViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E22C27762677A88D00C7688F /* CalenderViewController.swift */; };
+		E22C27792677A8B800C7688F /* ScannerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E22C27782677A8B800C7688F /* ScannerViewController.swift */; };
+		E22C277B2677AAC000C7688F /* SettingsTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = E22C277A2677AAC000C7688F /* SettingsTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +67,24 @@
 		E22C273926779E4700C7688F /* ExpenseTrackerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ExpenseTrackerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E22C273D26779E4700C7688F /* ExpenseTrackerUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExpenseTrackerUITests.swift; sourceTree = "<group>"; };
 		E22C273F26779E4700C7688F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E22C27582677A14900C7688F /* SettingsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
+		E22C275A2677A15900C7688F /* AddExpenseViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddExpenseViewController.swift; sourceTree = "<group>"; };
+		E22C275C2677A16800C7688F /* StatisticsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StatisticsViewController.swift; sourceTree = "<group>"; };
+		E22C275E2677A22F00C7688F /* TabBarViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBarViewController.swift; sourceTree = "<group>"; };
+		E22C27602677A2C900C7688F /* ProfileViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileViewController.swift; sourceTree = "<group>"; };
+		E22C27622677A44000C7688F /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
+		E22C27642677A44D00C7688F /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
+		E22C27662677A45A00C7688F /* StatisticsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StatisticsView.swift; sourceTree = "<group>"; };
+		E22C27682677A46500C7688F /* AddExpenseView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddExpenseView.swift; sourceTree = "<group>"; };
+		E22C276A2677A47300C7688F /* ProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileView.swift; sourceTree = "<group>"; };
+		E22C276C2677A7A500C7688F /* AddTransactionTableViewCellTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddTransactionTableViewCellTableViewCell.swift; sourceTree = "<group>"; };
+		E22C276E2677A82800C7688F /* CategoryViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryViewController.swift; sourceTree = "<group>"; };
+		E22C27702677A83000C7688F /* PaymentViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaymentViewController.swift; sourceTree = "<group>"; };
+		E22C27722677A83800C7688F /* NotesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotesViewController.swift; sourceTree = "<group>"; };
+		E22C27742677A86E00C7688F /* LocationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationViewController.swift; sourceTree = "<group>"; };
+		E22C27762677A88D00C7688F /* CalenderViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalenderViewController.swift; sourceTree = "<group>"; };
+		E22C27782677A8B800C7688F /* ScannerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScannerViewController.swift; sourceTree = "<group>"; };
+		E22C277A2677AAC000C7688F /* SettingsTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -152,6 +188,10 @@
 		E22C274D2677A01A00C7688F /* Views */ = {
 			isa = PBXGroup;
 			children = (
+				E22C27572677A12C00C7688F /* Table Views */,
+				E22C27562677A12400C7688F /* Other */,
+				E22C27552677A11D00C7688F /* Expenses */,
+				E22C27542677A11600C7688F /* Core */,
 				E22C272626779E4700C7688F /* LaunchScreen.storyboard */,
 			);
 			path = Views;
@@ -182,6 +222,11 @@
 			isa = PBXGroup;
 			children = (
 				E22C271C26779E4300C7688F /* HomeViewController.swift */,
+				E22C27582677A14900C7688F /* SettingsViewController.swift */,
+				E22C275A2677A15900C7688F /* AddExpenseViewController.swift */,
+				E22C275C2677A16800C7688F /* StatisticsViewController.swift */,
+				E22C275E2677A22F00C7688F /* TabBarViewController.swift */,
+				E22C27602677A2C900C7688F /* ProfileViewController.swift */,
 			);
 			path = Core;
 			sourceTree = "<group>";
@@ -196,8 +241,49 @@
 		E22C27532677A05C00C7688F /* Other */ = {
 			isa = PBXGroup;
 			children = (
+				E22C276E2677A82800C7688F /* CategoryViewController.swift */,
+				E22C27702677A83000C7688F /* PaymentViewController.swift */,
+				E22C27722677A83800C7688F /* NotesViewController.swift */,
+				E22C27742677A86E00C7688F /* LocationViewController.swift */,
+				E22C27762677A88D00C7688F /* CalenderViewController.swift */,
+				E22C27782677A8B800C7688F /* ScannerViewController.swift */,
 			);
 			path = Other;
+			sourceTree = "<group>";
+		};
+		E22C27542677A11600C7688F /* Core */ = {
+			isa = PBXGroup;
+			children = (
+				E22C27622677A44000C7688F /* HomeView.swift */,
+				E22C27642677A44D00C7688F /* SettingsView.swift */,
+				E22C27662677A45A00C7688F /* StatisticsView.swift */,
+				E22C27682677A46500C7688F /* AddExpenseView.swift */,
+				E22C276A2677A47300C7688F /* ProfileView.swift */,
+			);
+			path = Core;
+			sourceTree = "<group>";
+		};
+		E22C27552677A11D00C7688F /* Expenses */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Expenses;
+			sourceTree = "<group>";
+		};
+		E22C27562677A12400C7688F /* Other */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Other;
+			sourceTree = "<group>";
+		};
+		E22C27572677A12C00C7688F /* Table Views */ = {
+			isa = PBXGroup;
+			children = (
+				E22C276C2677A7A500C7688F /* AddTransactionTableViewCellTableViewCell.swift */,
+				E22C277A2677AAC000C7688F /* SettingsTableViewCell.swift */,
+			);
+			path = "Table Views";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -329,10 +415,28 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E22C27772677A88D00C7688F /* CalenderViewController.swift in Sources */,
+				E22C27692677A46500C7688F /* AddExpenseView.swift in Sources */,
+				E22C275F2677A22F00C7688F /* TabBarViewController.swift in Sources */,
+				E22C276D2677A7A500C7688F /* AddTransactionTableViewCellTableViewCell.swift in Sources */,
+				E22C27672677A45A00C7688F /* StatisticsView.swift in Sources */,
+				E22C276F2677A82800C7688F /* CategoryViewController.swift in Sources */,
+				E22C277B2677AAC000C7688F /* SettingsTableViewCell.swift in Sources */,
 				E22C271D26779E4300C7688F /* HomeViewController.swift in Sources */,
+				E22C27792677A8B800C7688F /* ScannerViewController.swift in Sources */,
+				E22C275B2677A15900C7688F /* AddExpenseViewController.swift in Sources */,
+				E22C27752677A86E00C7688F /* LocationViewController.swift in Sources */,
+				E22C27712677A83000C7688F /* PaymentViewController.swift in Sources */,
+				E22C27632677A44100C7688F /* HomeView.swift in Sources */,
 				E22C271926779E4300C7688F /* AppDelegate.swift in Sources */,
 				E22C271B26779E4300C7688F /* SceneDelegate.swift in Sources */,
+				E22C27592677A14900C7688F /* SettingsViewController.swift in Sources */,
+				E22C27612677A2C900C7688F /* ProfileViewController.swift in Sources */,
 				E22C272326779E4300C7688F /* ExpenseTracker.xcdatamodeld in Sources */,
+				E22C27732677A83800C7688F /* NotesViewController.swift in Sources */,
+				E22C275D2677A16800C7688F /* StatisticsViewController.swift in Sources */,
+				E22C276B2677A47300C7688F /* ProfileView.swift in Sources */,
+				E22C27652677A44D00C7688F /* SettingsView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
